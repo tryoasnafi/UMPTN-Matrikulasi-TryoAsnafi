@@ -6,6 +6,6 @@ Ujian Masuk Perusahaan Nasional
 
 - [x] Git (24 Okt 2022)
 - [x] HTML & CSS (25 Okt 2022)
-- [ ] Tailwind CSS
-- [ ] Laralvel & Livewire
+- [x] [Tailwind CSS](https://github.com/tryoasnafi/landing-umptn-tryoasnafi) (26 Okt 2022)
+- [x] Laralvel & Livewire (27 Okt 2022)
 - [ ] Node.js
